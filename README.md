@@ -61,7 +61,20 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 ## Archivos Destacados
 
 - **inventory.py**: Código fuente principal de la aplicación.
-- **Inventory.exe**: Archivo compilado ejecutable para Windows.
+- **Inventory.exe**: Archivo compilado ejecutable para Windows (ya incluido en el repositorio).
+
+---
+
+## Descargar la App
+
+Puedes descargar la aplicación de dos formas:
+
+- **Para usuarios de Windows**:  
+  Descarga el ejecutable [Inventory.exe](https://github.com/ProfMinecraft456/Inventory/blob/main/Inventory.exe) directamente desde el repositorio.  
+  En Windows, se recomienda utilizar PowerShell para ejecutar el ejecutable.
+  
+- **Para usuarios de macOS y Linux**:  
+  Clona el repositorio y compila la aplicación siguiendo las instrucciones de la sección [Compilación con PyInstaller](#compilación-con-pyinstaller).
 
 ---
 
@@ -75,19 +88,19 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 
 2. **Descargar el Código**  
    Clona el repositorio o descarga el proyecto utilizando GitHub Desktop o la línea de comandos:
-   ```bash
+   ```PowerShell
    git clone https://github.com/ProfMinecraft456/Inventory.git
    ```
 
 3. **Ejecutar la Aplicación (Modo Desarrollo)**  
    Para correr la aplicación en modo desarrollo, ubica el archivo `inventory.py` y ejecútalo:
-   ```bash
+   ```PowerShell
    python inventory.py
    ```
    _Nota: Asegúrate de estar en el directorio correcto del proyecto._
 
-4. **Utilizar el Ejecutable**  
-   Si prefieres no depender de un entorno de Python, simplemente ejecuta el archivo `Inventory.exe` para usar la aplicación de manera nativa en Windows.
+4. **Utilizar el Ejecutable en Windows**  
+   Para usuarios de Windows que prefieren no depender de un entorno de Python, ejecuta el archivo `Inventory.exe` directamente a través de PowerShell.
 
 ---
 
@@ -97,7 +110,7 @@ Para generar un único ejecutable utilizando PyInstaller, utiliza los siguientes
 
 - **En Windows**  
   Ejecuta:
-  ```bash
+  ```Powershell
   pyinstaller.exe --onefile --noconsole Inventory.py --clean
   ```
 
@@ -128,4 +141,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-_Disfruta de una experiencia única que combina lo mejor del diseño moderno con un toque de nostalgia vintage. :)_
+_Disfruta de una experiencia única que combina lo mejor del diseño moderno con un toque de nostalgia vintage._
+```
