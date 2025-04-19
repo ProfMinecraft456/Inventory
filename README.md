@@ -38,7 +38,7 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 ### Hardware
 
 - **CPU**: Cualquier procesador Intel o AMD de 2005 en adelante.
-- **Memoria RAM**: Mínimo 1 GB (se recomienda 4 GB o más para un rendimiento óptimo).
+- **Memoria RAM**: Mínimo 512 MB (se recomienda 1 GB o más para un rendimiento óptimo).
 - **Espacio en Disco**: Al menos 100 MB de espacio libre para el archivo JSON y dependencias.
 
 ### Software
