@@ -4,7 +4,7 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 
 ---
 
-## Características
+## Características:
 
 - **Gestión de Inventario**  
   - Búsqueda en tiempo real de artículos.
@@ -25,7 +25,7 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 
 ---
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas:
 
 - **Python**: Lenguaje de programación.
 - **PyQt5**: Framework para desarrollar interfaces gráficas.
@@ -33,15 +33,15 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 
 ---
 
-## Requisitos del Sistema
+## Requisitos del Sistema:
 
-### Hardware
+### Hardware:
 
 - **CPU**: Cualquier procesador Intel o AMD de 2005 en adelante.
 - **Memoria RAM**: Mínimo 512 MB (se recomienda 1 GB o más para un rendimiento óptimo).
 - **Espacio en Disco**: Al menos 100 MB de espacio libre para el archivo JSON y dependencias.
 
-### Software
+### Software:
 
 - **Sistema Operativo**:  
   - Windows, Linux o macOS (aplicable tanto para la versión en Python como para el ejecutable).
@@ -50,7 +50,7 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 - **Dependencias de Python**:
   - PyQt5 (instalable mediante `pip install PyQt5`).
 
-### Requisitos Adicionales
+### Requisitos Adicionales:
 
 - **Conexión a Internet**:  
   - No es necesaria para el funcionamiento de la aplicación.
@@ -58,14 +58,14 @@ Bienvenido a **Inventory App**, un sistema clásico y elegante de gestión de in
 
 ---
 
-## Archivos Destacados
+## Archivos Destacados:
 
 - **inventory.py**: Código fuente principal de la aplicación.
 - **Inventory.exe**: Archivo compilado ejecutable para Windows (ya incluido en el repositorio).
 
 ---
 
-## Descargar la App
+## Descargar la App:
 
 Puedes descargar la aplicación de dos formas:
 
@@ -78,7 +78,7 @@ Puedes descargar la aplicación de dos formas:
 
 ---
 
-## Cómo Ejecutar la Aplicación
+## Cómo Ejecutar la Aplicación:
 
 1. **Instalar Dependencias**  
    Asegúrate de tener Python instalado y procede a instalar las dependencias necesarias:
@@ -100,11 +100,11 @@ Puedes descargar la aplicación de dos formas:
    _Nota: Asegúrate de estar en el directorio correcto del proyecto._
 
 4. **Utilizar el Ejecutable en Windows**  
-   Para usuarios de Windows que prefieren no depender de un entorno de Python, ejecuta el archivo `Inventory.exe` directamente a través de PowerShell.
+   Para usuarios de Windows que prefieren no depender de un entorno de Python, ejecuta el archivo `Inventory.exe` directamente.
 
 ---
 
-## Compilación con PyInstaller
+## Compilación con PyInstaller:
 
 Para generar un único ejecutable utilizando PyInstaller, utiliza los siguientes comandos dependiendo de tu sistema operativo:
 
@@ -123,23 +123,22 @@ Para generar un único ejecutable utilizando PyInstaller, utiliza los siguientes
 
 ---
 
-## Contacto
+## Contacto:
 
 Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarme a través de [profmcyt@hotmail.com](mailto:profmcyt@hotmail.com).
 
 ---
 
-## Contribuciones
+## Contribuciones:
 
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación o agregar nuevas funcionalidades, siéntete libre de abrir un _pull request_ o reportar un _issue_.
 
 ---
 
-## Licencia
+## Licencia:
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para mayor información.
 
 ---
 
 _Disfruta de una experiencia única que combina lo mejor del diseño moderno con un toque de nostalgia vintage._
-```
