@@ -89,7 +89,7 @@ Puedes descargar la aplicación de dos formas:
 2. **Descargar el Código**  
    Clona el repositorio o descarga el proyecto utilizando GitHub Desktop o la línea de comandos:
    ```PowerShell
-   git clone https://github.com/ProfMinecraft456/Inventory.git
+   git clone https://github.com/ProfMinecraftDev/Inventory.git
    ```
 
 3. **Ejecutar la Aplicación (Modo Desarrollo)**  
